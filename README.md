@@ -22,6 +22,11 @@
 ##### 6) 2) ~ 3) 과정을 반복한 결과
 <img src = "./img/b_6.png" width="20%">
 
+##### 7) for문을 한번 더 돌았을 때 결과
+<img src = "./img/b_7.png" width="20%">
+
+##### 8) 결과
+<img src = "./img/b_8.png" width="20%">
 
 ## 2. Merge Sort
      divide & conquer 을 이용하여 정렬하는 방식
