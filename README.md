@@ -3,6 +3,26 @@
 ## 1. Bubble Sort 
     인접한 두 원소를 비교하여 자리를 교환하는 방식
 
+##### 1) 주어진 배열
+<img src = "./img/b_1.png" width="20%">
+
+##### 2) array[0]과 array[1] 비교
+
+<img src = "./img/b_2.png" width="20%">
+
+##### 3) 13이 5보다 크므로 교체
+<img src = "./img/b_3.png" width="20%">
+
+##### 4) array[1]과 array[2] 비교
+<img src = "./img/b_4.png" width="20%">
+
+##### 5) 8이 13보다 작으므로 교체
+<img src = "./img/b_5.png" width="20%">
+
+##### 6) 2) ~ 3) 과정을 반복한 결과
+<img src = "./img/b_6.png" width="20%">
+
+
 ## 2. Merge Sort
      divide & conquer 을 이용하여 정렬하는 방식
 ### Divide & Conquer
