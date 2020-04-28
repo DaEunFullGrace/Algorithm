@@ -29,7 +29,7 @@
 <img src = "./img/b_8.png" width="20%">
 
 ## 2. Merge Sort
-     divide & conquer 을 이용하여 정렬하는 방식
+     Divide & Conquer 을 이용하여 정렬하는 방식
 ### Divide & Conquer
     Divide : 큰 문제를 풀기 쉽게 하기 위해 작은 문제로 나누는 단계
     Conquer : 작은 문제를 해결하여 해를 구하는 단계, 보통 재귀적으로 구함
@@ -45,4 +45,6 @@
     완전 이진트리(Complete Binary Tree)로서 성질을 만족함
     최소힙 : 모든 부모 노드의 값이 자식 노드보다 작은 힙
     최대힙 : 모든 부모 노드의 값이 자식노드보다 큰 힙
-
+    
+##### 최소힙
+<img src = "./img/meanHeap.png" width="20%">
