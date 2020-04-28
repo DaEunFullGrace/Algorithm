@@ -29,7 +29,7 @@
 <img src = "./img/b_8.png" width="20%">
 
 ## 2. Merge Sort
-     Divide & Conquer 을 이용하여 정렬하는 방식
+     Divide & Conquer를 이용하여 정렬하는 방식
 ### Divide & Conquer
     Divide : 큰 문제를 풀기 쉽게 하기 위해 작은 문제로 나누는 단계
     Conquer : 작은 문제를 해결하여 해를 구하는 단계, 보통 재귀적으로 구함
