@@ -2,6 +2,7 @@
 
 ## 1. Bubble Sort 
     인접한 두 원소를 비교하여 자리를 교환하는 방식
+    수행시간 : O(N*N)   (N : 주어진 배열의 크기)
 
 ##### 1) 주어진 배열
 <img src = "./img/b_1.png" width="20%">
@@ -30,6 +31,8 @@
 
 ## 2. Merge Sort
      Divide & Conquer를 이용하여 정렬하는 방식
+     수행시간 : O(N*log(N))
+     
 ### Divide & Conquer
     Divide : 큰 문제를 풀기 쉽게 하기 위해 작은 문제로 나누는 단계
     Conquer : 작은 문제를 해결하여 해를 구하는 단계, 보통 재귀적으로 구함
