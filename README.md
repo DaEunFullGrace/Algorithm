@@ -54,10 +54,10 @@
 
 <img src = "./img/q_2.png" width="20%">
 
-##### 3) 처음 정한 pivot보다 작은 값들을 다시 재귀적으로 정렬한다. 5를 새로운 pivot으로 설정한뒤 pivot을 기준으로 정렬한다.
+##### 3) 처음 정한 pivot보다 작은 값들을 다시 재귀적으로 정렬한다. 5를 새로운 pivot으로 설정한뒤 pivot을 기준으로 정렬
 <img src = "./img/q_3.png" width="20%">
 
-##### 4) 처음 정한 pivot보다 큰 값들을 다시 재귀적으로 정렬한다. 13를 새로운 pivot으로 설정한뒤 pivot을 기준으로 정렬한다.
+##### 4) 처음 정한 pivot보다 큰 값들을 다시 재귀적으로 정렬한다. 13를 새로운 pivot으로 설정한뒤 pivot을 기준으로 정렬
 <img src = "./img/q_4.png" width="20%">
 
 ##### 5) 결과
@@ -76,3 +76,14 @@
 <img src = "./img/minHeap.png" width="20%">
 
 #### 정렬 과정
+
+##### 1) Root 노드를 배열에 입력
+<img src = "./img/h_1.png" width="20%">
+
+##### 2) 가장 마지막 노드를 Root 노드 자리에 옮겨놓은 뒤 다시 완벽한 힙을 만듦
+<img src = "./img/h_2.png" width="50%">
+
+##### 3) Root 노드를 배열에 입력
+<img src = "./img/h_3.png" width="20%">
+
+##### 4) 위의 과정을 힙의 원소가 남아있지 않을 때까지 반복
